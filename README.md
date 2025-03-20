@@ -24,3 +24,5 @@ Un asistente inteligente que conecta Telegram con Google Calendar utilizando n8n
 - **Token de bot de Telegram**: Obtenido de BotFather en Telegram.
 - **Credenciales de Google Calendar**: Configuradas mediante OAuth2.
 - **Clave de OpenAI**: Opcional, para capacidades avanzadas de IA.
+
+[Calendar](Calendar Human loop.png)
