@@ -25,4 +25,4 @@ Un asistente inteligente que conecta Telegram con Google Calendar utilizando n8n
 - **Credenciales de Google Calendar**: Configuradas mediante OAuth2.
 - **Clave de OpenAI**: Opcional, para capacidades avanzadas de IA.
 
-![Calendar](Calendar Human loop.png)
+![Calendar](Calendar-Human-loop.png)
